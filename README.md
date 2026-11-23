@@ -1,4 +1,4 @@
-<img src="http://IMG_20261123_130340_173 alt="RPB Photo" align="right" width="30%"/>
+<img src="[http://IMG_20261123_130340_173](https://github.com/cherrynu854-lgtm/cherrynu1.github.io/blob/main/img.jpg) alt="RPB Photo" align="right" width="30%"/>
 
 # _Cherry Nu_
 > __<br />
