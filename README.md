@@ -1,4 +1,4 @@
-<img src="http://rbatzing.github.io/img/bob5.png" alt="RPB Photo" align="right" width="30%"/>
+<img src="http://img.jpg" alt="RPB Photo" align="right" width="30%"/>
 
 # _Cherry Nu_
 > __<br />
