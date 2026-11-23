@@ -3,7 +3,7 @@
 # _Cherry Nu_
 > __<br />
 > Payap University, Department of Computer Science<br />
-> Amphur Muang, Chiang Mai 50000, Thailand<br />
+> San kapheang, Chiang Mai 50000, Thailand<br />
 
 > Computer Solutions Developer with decades of experience in Data Science and Big Data Analytics, Natural language Processing, Document Publishing Systems, 
 and Web Community Development as well as mutagenic and carcinogenic activities of anthelmintics
